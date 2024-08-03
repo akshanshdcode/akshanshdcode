@@ -8,7 +8,7 @@ Aspiring to become a full-stack developer, passionate about creating seamless us
 
 ## Skills
 - **Programming:** Java, C++, JavaScript, Golang, Python
-- **Core Fundamentals:** Data Structures and Algorithms, Operating Systems, OOP, Computer Networks, DBMS
+- **Core Fundamentals:** Data Structures and Algorithms, Operating Systems, OOPs, Computer Networks, DBMS
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
 - **Backend:** Node.js, Express.js, MongoDB, Socket.io, Spring Boot
 - **Tools & Technologies:** GitHub, Postman, Spring Tool Suite, Jenkins, Docker
