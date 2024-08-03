@@ -13,14 +13,8 @@ Aspiring to become a full-stack developer, passionate about creating seamless us
 - **Backend:** Node.js, Express.js, MongoDB, Socket.io, Spring Boot
 - **Tools & Technologies:** GitHub, Postman, Spring Tool Suite, Jenkins, Docker
 
-## Projects
-- **Fuel Insights:** Real-time system to detect fuel drip, drain, or theft with an intuitive dashboard and trip analysis feature.
-- **CourseMap:** Personalized learning roadmaps with interconnected nodes and mentor connections, enhancing user engagement and progress tracking.
-- **Travel Booking Platform:** Comprehensive platform specializing in travel package bookings, featuring user expense management, provider tour creation, and admin oversight.
-- **University Admin Backend:** RESTful APIs in Spring Boot for managing student information, utilizing MySQL.
-
 ## Achievements
-- **Winner:** VECV Prize at HackHive (36-hour hackathon)
+- **Winner:** VECV Prize at HackHive (36-hour hackathon) | Project [Demo](https://fuel-insights.vercel.app)
 - **1st Runner-Up:** Prayatna National Level Hackathon
 - **Top 5%:** NPTEL Computer Networks exam (Elite certificate with silver badge)
 - **DSA:** Solved 200+ problems on LeetCode & GFG
