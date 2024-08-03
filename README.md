@@ -4,7 +4,7 @@
 🚀 Passionate Programmer | 💡 Quick Learner | Problem Solver
 
 ## About Me
-Aspiring to become a full-stack developer, passionate about creating seamless user experiences and robust backend solutions. Seeking to enhance my skills, contribute to innovative projects.
+A full-stack developer, passionate about creating seamless user experiences and robust backend solutions. Seeking to enhance my skills, contribute to innovative projects.
 
 ## Skills
 - **Programming:** Java, C++, JavaScript, Golang, Python
