@@ -17,6 +17,6 @@ Aspiring to become a full-stack developer, passionate about creating seamless us
 - **Winner:** VECV Prize at HackHive (36-hour hackathon) | Project [Demo](https://fuel-insights.vercel.app)
 - **1st Runner-Up:** Prayatna National Level Hackathon
 - **Top 5%:** NPTEL Computer Networks exam (Elite certificate with silver badge)
-- **DSA:** Solved 200+ problems on LeetCode & GFG
+- **DSA:** Solved 200+ problems on LeetCode & GFG [Link](https://codolio.com/profile/6oM41d13)
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/akshanshgupta13) or check out my projects on [GitHub](https://github.com/akshanshdcode).
